@@ -5,6 +5,8 @@ It is designed for fast discovery of hidden directories, files, and endpoints us
 
 The extension focuses on simplicity, performance, and UI stability during long fuzzing sessions.
 
+[![2d.png](https://i.postimg.cc/DzCH06h7/2d.png)](https://postimg.cc/Z9dVDr0Q)
+
 ---
 
 ## Features
